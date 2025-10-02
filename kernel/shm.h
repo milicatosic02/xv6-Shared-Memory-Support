@@ -1,0 +1,3 @@
+#define NOPROCESSSHM 16
+#define NOSYSSHM 64
+#define SHMMAXPAGES 32
